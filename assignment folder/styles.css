@@ -1,0 +1,33 @@
+@media (min-width: 992px) {
+  #s1 {
+    width: 33%;
+  }
+  #s2 {
+    width: 33%;
+  }
+  #s3 {
+    width: 33%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #s1 {
+    width: 33%;
+  }
+  #s2 {
+    width: 33%;
+  }
+  #s3 {
+    width: 33%;  
+}
+
+@media (max-width: 767px) {
+  #s1 {
+    width: 33%;
+  }
+  #s2 {
+    width: 33%;
+  }
+  #s3 {
+    width: 33%;
+}
